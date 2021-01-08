@@ -6,31 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9bd3bdc8-7218-4189-bdb2-928caa5b8af2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/karate.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/main.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/examples.comments.comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/examples.todos.todos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/examples.users.users.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/karate-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/karate-tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/jquery.tablesorter.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/ExamplesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/comments/CommentsRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/comments/comments.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/todos/TodosRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/todos/todos.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/users/UsersRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/users/users.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/karate-config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/logback-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
