@@ -1,6 +1,6 @@
 # Example Karate DSL Project
 
-A vanilla Karate DSL project testing the functionality of 'JSON Placeholder', this is just a small expansion on what Karate DSL already provide.
+A vanilla Karate DSL project testing the functionality of 'JSON Placeholder', this is just a small expansion on what Karate DSL already provide to serve as a boilerplate archetype. 
 
 ## Versions
 <table>
