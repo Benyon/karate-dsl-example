@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bd3bdc8-7218-4189-bdb2-928caa5b8af2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/karate.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/main.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/examples.comments.comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/examples.todos.todos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/examples.users.users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/karate-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/karate-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/jquery.tablesorter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/res/karate-report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/ExamplesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/comments/CommentsRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/comments/comments.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/todos/TodosRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/todos/todos.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/users/UsersRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/examples/users/users.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/karate-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/logback-test.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mmev76qmg8w9lfaAmue2L40lan" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/examples/todos" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/examples/todos" />
+      <recent name="$PROJECT_DIR$/src/test/java/examples" />
+      <recent name="$PROJECT_DIR$/src/test/java/examples/comments" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExamplesTest">
+    <configuration name="CommentsRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-dsl-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.comments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples.comments" />
+      <option name="MAIN_CLASS_NAME" value="examples.comments.CommentsRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExamplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-dsl-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples" />
+      <option name="MAIN_CLASS_NAME" value="examples.ExamplesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karate-dsl-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples.users" />
+      <option name="MAIN_CLASS_NAME" value="examples.users.UsersRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karate-dsl-example [runner]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.karate-dsl-example [runner]" />
+      <item itemvalue="JUnit.UsersRunner" />
+      <item itemvalue="JUnit.CommentsRunner" />
+      <item itemvalue="JUnit.ExamplesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExamplesTest" />
+        <item itemvalue="JUnit.CommentsRunner" />
+        <item itemvalue="JUnit.UsersRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd3bdc8-7218-4189-bdb2-928caa5b8af2" name="Default Changelist" comment="" />
+      <created>1610103421766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610103421766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
