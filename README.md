@@ -14,6 +14,6 @@ A vanilla Karate DSL project testing the functionality of 'JSON Placeholder', th
 
 You can run tests by building the project, navigating to `src/java/examples`, and executing ExampleTests.class by right clicking it and selecting Run.
 
-## Small Guide for Running Tests and Developing Tests
+## Setup Guide + Building Tests
 
 If you interested in building your own tests or simply having trouble running the tests, [you can find a guide video by clicking here](https://streamable.com/ky62k2).
